@@ -35,7 +35,6 @@ The labs focus on Windows operating system deployment, virtualization, networkin
 | Chapter 8 | File Management |
 | Chapter 9 | Registry and .NET |
 | Chapter 10 | Performance Monitoring |
-| Chapter 14 | Remote Access and VPN |
 
 ## Technologies
 
