@@ -1,4 +1,4 @@
-# 🖥️ Windows System Administration Labs
+# Windows System Administration Labs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Domain-System%20Administration-4B4B4B?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-> 🏢 Hands-on Windows 10 system administration labs covering virtualization, networking, security, storage management, performance monitoring, and remote access technologies — completed as part of an M.S. Cybersecurity program.
+> Hands-on Windows 10 system administration labs covering virtualization, networking, security, storage management, performance monitoring, and remote access technologies — completed as part of an M.S. Cybersecurity program.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains hands-on laboratory exercises completed as part of a **Windows System Administration** course in the **Master of Science in Cybersecurity** program at **Minnesota State University Moorhead**.
 
@@ -21,7 +21,7 @@ All lab documents are provided as step-by-step PDFs with screenshots and analysi
 
 ---
 
-## 🏗️ Lab Environment
+## Lab Environment
 
 | Component | Details |
 |-----------|---------|
@@ -31,36 +31,36 @@ All lab documents are provided as step-by-step PDFs with screenshots and analysi
 
 ---
 
-## 🛠️ Technologies Implemented
+## Technologies Implemented
 
-### 💻 Virtualization & Deployment
+### Virtualization & Deployment
 - VMware Workstation setup and VM lifecycle management
 - Windows 10 installation and post-deployment configuration
 - Windows Assessment and Deployment Kit (ADK)
 
-### 👤 User & Access Management
+### User & Access Management
 - Local user and group account administration
 - UAC, password policies, and account lockout policies
 - NTFS file permissions and access control lists (ACLs)
 
-### 🛡️ Security
+### Security
 - AppLocker application whitelisting and blacklisting
 - Audit policy configuration
 - Security policy hardening via Group Policy tools
 - Windows Defender configuration
 
-### 🌐 Networking
+### Networking
 - Static and dynamic IPv4 addressing
 - DNS and DHCP configuration
 - Remote Desktop (RDP) and VPN setup
 - Network adapter management and troubleshooting
 
-### 💾 Storage Management
+### Storage Management
 - DiskPart command-line partitioning
 - Storage Spaces configuration
 - Virtual Hard Disk (VHD) creation and management
 
-### 📊 Monitoring & Maintenance
+### Monitoring & Maintenance
 - Performance Monitor (`perfmon`) counter configuration
 - Resource Monitor for real-time diagnostics
 - Event Viewer log analysis
@@ -68,7 +68,7 @@ All lab documents are provided as step-by-step PDFs with screenshots and analysi
 
 ---
 
-## 📋 Lab Structure
+## Lab Structure
 
 | Lab | Topic |
 |-----|-------|
@@ -85,29 +85,29 @@ All lab documents are provided as step-by-step PDFs with screenshots and analysi
 
 ---
 
-## 🔑 Key Accomplishments
+## Key Accomplishments
 
-- ✅ Deployed and configured Windows 10 virtual machines in VMware Workstation
-- ✅ Configured Storage Spaces, VHDs, and DiskPart-managed partitions
-- ✅ Administered local users, groups, and NTFS permission structures
-- ✅ Enforced application control policies using AppLocker
-- ✅ Configured IPv4 networking, DNS, DHCP, and remote access technologies
-- ✅ Applied security hardening through audit policies and Group Policy tools
-- ✅ Analysed system performance using Performance Monitor and Resource Monitor
-- ✅ Administered the Windows Registry and managed .NET Framework settings
+- Deployed and configured Windows 10 virtual machines in VMware Workstation
+- Configured Storage Spaces, VHDs, and DiskPart-managed partitions
+- Administered local users, groups, and NTFS permission structures
+- Enforced application control policies using AppLocker
+- Configured IPv4 networking, DNS, DHCP, and remote access technologies
+- Applied security hardening through audit policies and Group Policy tools
+- Analysed system performance using Performance Monitor and Resource Monitor
+- Administered the Windows Registry and managed .NET Framework settings
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 `Windows 10 Administration` `VMware Workstation` `PowerShell` `AppLocker` `Storage Spaces` `DiskPart` `User & Group Management` `NTFS Permissions` `IPv4 Networking` `Remote Desktop` `Performance Monitoring` `Registry Administration` `Windows ADK` `Security Hardening`
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
-📦 Windows-system-administration-labs
+Windows-system-administration-labs
 ├── 📄 README.md
 ├── 📋 MOS Chapter 1 Lab HSK.pdf   ← VMware & Windows Installation
 ├── 📋 MOS Chapter 2 Lab HSK.pdf   ← Windows ADK & Activation
@@ -123,7 +123,7 @@ All lab documents are provided as step-by-step PDFs with screenshots and analysi
 
 ---
 
-## 💡 Real-World Relevance
+## Real-World Relevance
 
 This lab series maps directly to enterprise IT and help-desk environments where:
 - **User and group management** underpins identity and access control across every organisation
@@ -133,13 +133,13 @@ This lab series maps directly to enterprise IT and help-desk environments where:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 These labs were built in a controlled VMware virtualization environment for educational and academic purposes only. Some configurations are intentionally simplified for learning and should not be replicated in production environments.
 
 ---
 
-## 👤 Author
+## Author
 
 **Hashan Kodippilige**  
 M.S. Cybersecurity — Minnesota State University Moorhead  
