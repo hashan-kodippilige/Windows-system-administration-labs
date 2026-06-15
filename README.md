@@ -144,6 +144,5 @@ These labs were built in a controlled VMware virtualization environment for educ
 **Hashan Kodippilige**  
 M.S. Cybersecurity — Minnesota State University Moorhead  
 📧 hashansharindu@gmail.com  
-<img width="512" height="512" alt="Linkedin logo" src="https://github.com/user-attachments/assets/402dc8fb-4d45-4896-b61b-a4950f14e93f" />
- [LinkedIn](https://www.linkedin.com/in/hashankodippilige/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hashankodippilige/)  
 🐙 [GitHub](https://github.com/hashan-kodippilige)
